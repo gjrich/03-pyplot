@@ -1,4 +1,3 @@
 
 matplotlib
-random
-collections
+numpy
