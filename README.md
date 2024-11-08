@@ -1,11 +1,7 @@
-# Matplotlib and pyplot
+# Juypter Coding Exercise
+# Gabriel Richards
+November 2024
 
-Complete the tasks in the Python Notebook in this repository.
-To be submitted for credit, all changes must be committed and pushed to this repository (do not create your own repository unless instructed to on the course website).
+These coding exercises work with random number generation and sorting algorithm performance using Python in a Jupyter notebook. I made a number of stylistic choices on how best to present this information.
 
-## Rubric
 
-Each question is worth two points: 
-
-* Data plotted as described by the question (1 pt)
-* Plot contains required elements (title, axis labels, axis titles, legend if required)
